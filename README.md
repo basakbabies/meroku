@@ -1,8 +1,8 @@
 ![MerokuDAO](./img/logoBIG.jpeg)
 
-Meroku is the world's first community-owned omnichain dapp store. We are trying to remove redundant costs which exist in web2 (eg. cloud hosting ) and centralised authorities who control access and define their own rules to stop dapp developers from innovating. We feel the future will be self-hosted dapp stores with complete transparency. This framework is the start of that journey, please join us and help create a more open and secure web3. 
+Meroku-DAO is the world's first community-owned omni-chain dApp store. We strive to eliminate the redundant costs which exist in web2 (eg. cloud hosting ) and centralised authorities who control access and define their own rules eventually hindering dApp developers from innovating. We feel the future will be self-hosted dApp stores with complete transparency. This framework is the start of that journey, please join us and let's together head towards an inclusive, fair and secured web3 for all.
 
-Please note: We don't have a website or any token. This repo is only official spot. 
+Please note: We don't have a website or any token. This repo is the only official spot.
 
 ## Benefits:
 
